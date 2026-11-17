@@ -34,9 +34,8 @@ Some things I've been working on:
 | [MyOS](https://github.com/sametbilir33/myos) | An operating system built from scratch. |
 | [S#](https://github.com/sametbilir33/SSharp) | My own programming language project. |
 | [NES Emulator](https://github.com/sametbilir33/nes-emulator) | An emulator for the Nintendo Entertainment System. |
-| [HolmiumOS](https://github.com/sametbilir33/HolmiumOS) | An operating system built using CosmosOS. |
+| [HolmiumOS](https://github.com/sametbilir33/HolmiumOS) | An Advanced Operating System built using CosmosOS. |
 | [VoxelCraft](https://github.com/sametbilir33/VoxelCraft) | An experimental voxel-based project. |
-| [MiniText](https://github.com/sametbilir33/MiniText) | A small text-related project. |
 
 ## 📊 GitHub Statistics
 
