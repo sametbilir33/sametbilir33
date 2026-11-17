@@ -4,27 +4,48 @@ I'm a hobbyist software developer who enjoys exploring different areas of softwa
 
 I like building things from scratch, experimenting with new technologies, and understanding how things work under the hood.
 
-I build the things the world never thought it needed.
+**I build the things the world never thought it needed.**
 
-## 🛠️ Technologies & Tools I Use
+## 🛠️ Technologies & Tools
 
-- **Languages:** C, C++, C#
-- **Build Systems:** CMake
-- **Operating System:** Arch Linux
-- **GUI Frameworks:** Qt, GTK
-- **Tools:** Bash, Git, GitHub
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+### Frameworks & Libraries
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![GTK](https://img.shields.io/badge/GTK-7FE719?style=for-the-badge&logo=gtk&logoColor=black)
+
+### Environment & Tools
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🚀 Projects
 
-Some of the projects I've worked on:
+Some things I've been working on:
 
-- **MyOS** - An experimental operating system project.
-- **S#** - A programming language project.
-- **NES Emulator** - An emulator for the Nintendo Entertainment System.
-- **HolmiumOS** - CosmosOS based advanced Operating System..
+| Project | Description |
+|---|---|
+| [MyOS](https://github.com/sametbilir33/myos) | An operating system built from scratch. |
+| [S#](https://github.com/sametbilir33/SSharp) | My own programming language project. |
+| [NES Emulator](https://github.com/sametbilir33/nes-emulator) | An emulator for the Nintendo Entertainment System. |
+| [HolmiumOS](https://github.com/sametbilir33/HolmiumOS) | An operating system built using CosmosOS. |
+| [VoxelCraft](https://github.com/sametbilir33/VoxelCraft) | An experimental voxel-based project. |
+| [MiniText](https://github.com/sametbilir33/MiniText) | A small text-related project. |
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=sametbilir33&show_icons=true&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=sametbilir33\&show_icons=true\&theme=github_dark\&hide_border=true)" alt="GitHub Statistics" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=sametbilir33&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=sametbilir33\&layout=compact\&theme=github_dark\&hide_border=true)" alt="Most Used Languages" /> \</p>
+[![GitHub Followers](https://img.shields.io/github/followers/sametbilir33?style=for-the-badge&logo=github&label=Followers)](https://github.com/sametbilir33?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/sametbilir33?style=for-the-badge&logo=github&label=Total%20Stars)](https://github.com/sametbilir33?tab=repositories)
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=sametbilir33&theme=github-dark-blue&hide_border=true](https://streak-stats.demolab.com?user=sametbilir33\&theme=github-dark-blue\&hide_border=true)" alt="GitHub Streak" /> \</p>
+[![GitHub Repositories](https://img.shields.io/badge/Public%20Repositories-Explore-blue?style=for-the-badge&logo=github)](https://github.com/sametbilir33?tab=repositories)
+[![GitHub Contributions](https://img.shields.io/badge/Contributions-Activity-green?style=for-the-badge&logo=github)](https://github.com/sametbilir33)
+
+## 📫 Find Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-sametbilir33-181717?style=for-the-badge&logo=github)](https://github.com/sametbilir33)
